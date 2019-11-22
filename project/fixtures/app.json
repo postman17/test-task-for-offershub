@@ -1,0 +1,1 @@
+[{"model": "app.projectmodel", "pk": 5, "fields": {"gid": 1150858292759044, "name": "django project"}}, {"model": "app.usermodel", "pk": 1, "fields": {"gid": 1150844394953881, "name": "post user"}}, {"model": "app.taskmodel", "pk": 2, "fields": {"gid": 1150877755813183, "project": 5, "user": 1, "text": "test task"}}]
