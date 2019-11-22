@@ -1,5 +1,7 @@
 # test-task-for-offershub
 
+### admin - login: admin, password: admin
+
 Работа с API таск менеджера асана
 
 Асана - это таск менеджер.
